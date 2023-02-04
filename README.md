@@ -20,6 +20,8 @@ Compatible con Java versión 8 o superior.
 Requiere la importación de las siguientes librerías externas:
 Librerías externas
 
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva1.JPG)
+
 Requiere la creación previa de una base de datos con dos tablas, la cual debe configurarse dentro del archivo ConnectionFactory.java:
 Base de Datos
 
