@@ -25,6 +25,8 @@ Librerías externas
 Requiere la creación previa de una base de datos con dos tablas, la cual debe configurarse dentro del archivo ConnectionFactory.java:
 Base de Datos
 
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva2.JPG)
+
 🎨 La interfaz contiene dos métodos importantes:
 setResizable(false): determina el tamaño de la ventana, y a través del parámetro false, la pantalla no se puede maximizar.
 
