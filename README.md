@@ -35,7 +35,11 @@ setLocationRelativeTo(null): determina la ubicación de la ventana, y a través 
 La ventana con la que se debe iniciar la aplicación es la de Menú Principal (MenuPrincipal.java):
 Menú Principal
 
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva3.JPG)
+
 Desde la cual podrá avanzar de forma gráfica hacia la de Login:
+
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva4.JPG)
 
 Login
 
@@ -46,28 +50,33 @@ Contraseña= admin
 
 Una vez ingresados los datos de acceso, la aplicación le permitirá optar por crear una reserva o realizar una búsqueda de un registro de reserva o huésped existente.
 
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva5.JPG)
+
 Opciones
 
 Registro de Reserva
+
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva6.JPG)
+
 Crear reserva
 
 Registrar Huésped
+
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva7.JPG)
 
 Datos guardados
 
 Si ingresó en la opción de Búsqueda podrá optar por editar o eliminar el registro seleccionado o bien realizar una búsqueda específica por número de id.
 
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva8.JPG)
+
 Editar o eliminar Registro
 
 Ventana de Confirmación de cambios
 
-Sistema pide confirmar eliminación
-
-Sistema informa registro eliminado
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva9.JPG)
 
 Búsqueda por número de Id
 
-Finalmente puede ir hacia atrás o cerrar la aplicación con los íconos disponibilizados en la parte superior de cada ventana.
-
-Íconos de atrás y cierre
+![This is an image](https://github.com/luisfe82/Challenge-One-Hotel-Alura/blob/main/img%20hotel/Diapositiva10.JPG)
 
